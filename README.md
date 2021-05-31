@@ -5,7 +5,8 @@
       That's mean I learn as a full-time student and work in the semester holidays for my company 😉
 
 *** Some information about my Programming Languages ***
-  What I can do very well:
+
+What I can do very well:
     - C/C++
     - Java
     - Minecraft Java Plugin Development (1.8 - 1.11)
